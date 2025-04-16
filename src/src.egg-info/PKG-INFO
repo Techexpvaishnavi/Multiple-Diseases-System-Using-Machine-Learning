@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary:  A small package for Multiple Diseases Prediction System 
+Home-page: https://github.com/Techexpvaishnavi/Multiple-Diseases-System-Using-Machine-Learning
+Author: Techexpvaishnavi
+Author-email: vg309587@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: Pillow
+Requires-Dist: streamlit-option-menu
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Multiple-Diseases-System-Using-Machine-Learning
